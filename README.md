@@ -71,3 +71,10 @@ Technologies used
 =================
 - Pentaho PDI Community Edition (LGPL) http://community.pentaho.com/;
 - Teradata JDBC Driver.
+
+Requirements to the execution environment
+=========================================
+- OS: Originally developed and tested on Linux SLES 10 SP1 (Teradata Express). At the moment, there is no fundamental problems of adapting solutions to run on Windows.
+- Sun / Oracle Java (TM) Runtime Environment 6 (version> = 1.6.0.u26);
+- Pentaho Data Integration Community Edition (version> = 4.2.0);
+- Teradata JDBC Driver (version> = 14.00.00).
